@@ -1,70 +1,67 @@
 # 👋 Hi, I'm Robert Juchimiuk
 
-🎯 **Aspiring Data Scientist & Software Engineer** passionate about AI, backend systems, and full-stack development.  
-I love transforming data into insights, automating real-world processes, and building intelligent web applications.
+🎯 **Software Engineer | Goldman Sachs Intern**  
+Passionate about backend architecture, distributed systems, and building scalable enterprise services. Experienced in delivering production-grade code, designing clean RESTful APIs, and developing robust containerized applications.
 
 ---
 
 ## 🧠 About Me
 
+- 💼 Former **Software Engineering Intern at Goldman Sachs** (focused on backend engineering & distributed systems)
 - 🎓 Computer Science student at **PJATK (Polish-Japanese Academy of Information Technology)**
-- 🤖 Focused on **Machine Learning**, **Data Analysis**, and **Web Development**
-- 🚀 Building projects that connect **data science** with practical web solutions
-- 🌍 Open to internships, collaborations, and open-source contributions
+- ⚙️ Focused on **Backend Architecture**, **Spring Boot / Java ecosystem**, and **Relational Database Design**
+- 🚀 Strong foundation in enterprise software engineering standards, clean code, and CI/CD workflows
+- 🌍 Actively seeking Junior / Graduate Software Engineer opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧩 Languages
-`Python` • `SQL` • `Java` • `C++` • `JavaScript` • `TypeScript` • `HTML/CSS` • `Swift`
+`Java` • `Python` • `TypeScript` • `SQL` 
 
-### 🤖 Machine Learning & Data
-`scikit-learn` • `pandas` • `NumPy` • `matplotlib` • `PyTorch` • `LightGBM` • `n8n` • `OpenAI API`
+### ⚙️ Backend & Architecture
+`Spring Boot` • `Hibernate / JPA` • `FastAPI` • `Node.js` • `RESTful APIs` • `Microservices`
 
-### ⚙️ Frameworks & Technologies
-`Flask` • `FastAPI` • `React.js` • `Node.js` • `Express.js` • `SQLAlchemy` • `Docker` • `Kubernetes` • `Azure`
-
-### 🧰 Tools
-`Git` • `REST API` • `Postman` • `Power BI` • `Jupyter Notebook`
+### 🗄️ Databases & Infrastructure
+`PostgreSQL` • `Git` • `Docker` • `Kubernetes` • `GCP` • `AWS`
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🛒 Shopping List Manager
-A **Flask + SQLAlchemy** web app for managing dynamic shopping lists with real-time cost analysis and visual expense tracking.  
-Features clean UI, category-based filtering, and Matplotlib data visualization.  
-**Tech:** Flask, SQLAlchemy, SQLite, JS, Matplotlib
+### 🚚 Transport Management System (TMS)
+An end-to-end **logistics management platform** engineered for route optimization, driver scheduling, and business rule automation.  
+- Designed scalable relational database schemas and automated fraud-detection workflows.  
+- Integrated business logic reducing manual overhead and improving operational efficiency.  
+**Tech Stack:** `Python` • `React` • `SQL` • `Docker`
 
 ---
 
-### 🚚 Transport Management System
-Developed a **data-driven logistics platform** with route and driver scheduling, fuel fraud detection, and bonus optimization.  
-Improved cost control and reduced manual workload for a transport company.  
-**Tech:** Python, React, SQL Server, Docker
+### 🛒 Dynamic Expense & Inventory Manager
+A modular **CRUD web application** built for real-time item tracking and expense aggregation.  
+- Implemented persistent data layer with ORM queries and categorized state management.  
+- Integrated server-side data aggregation with responsive front-end visualization.  
+**Tech Stack:** `Flask` • `SQLAlchemy` • `SQLite` • `JavaScript` • `REST API`
 
 ---
 
-### 🎥 Content Watch Time Predictor
-Built a **machine learning model** predicting how long a user will watch a given video, based on behavioral and content features.  
-Used statistical preprocessing and regression models for engagement forecasting.  
-**Tech:** scikit-learn, pandas, NumPy
+### 🎥 Engagement Analytics & Inference Service
+A high-throughput **prediction service** estimating user watch time based on historical and content features.  
+- Implemented preprocessing pipelines and regression inference endpoints.  
+- Focused on deterministic data transformation and low-latency API response times.  
+**Tech Stack:** `Python` • `FastAPI` • `pandas` • `NumPy`
 
 ---
 
 ## 🌱 Currently Exploring
-- Practical Machine Learning workflows and model evaluation
-- Data preprocessing, feature engineering, and visualization
-- Building data-driven web apps with Flask, React, and APIs
+- Microservices patterns, caching strategies, and event-driven architecture (Kafka)
+- Low-latency backend systems & Spring Cloud
+- Cloud-native deployments with Docker & Kubernetes
 
 ---
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/juchimiuk-robert/)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/robert.juchimiuk.1/?locale=pl_PL)  
 
----
-
-⭐️ *“The best way to predict the future is to invent it.” – Alan Kay*
