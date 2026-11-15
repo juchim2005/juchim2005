@@ -7,7 +7,7 @@ Passionate about backend architecture, distributed systems, and building scalabl
 
 ## 🧠 About Me
 
-- 💼 Former **Software Engineering Intern at Goldman Sachs** (focused on backend engineering & distributed systems)
+- 💼 **Software Engineering Intern at Goldman Sachs** (focused on backend engineering & distributed systems)
 - 🎓 Computer Science student at **PJATK (Polish-Japanese Academy of Information Technology)**
 - ⚙️ Focused on **Backend Architecture**, **Spring Boot / Java ecosystem**, and **Relational Database Design**
 - 🚀 Strong foundation in enterprise software engineering standards, clean code, and CI/CD workflows
